@@ -1,0 +1,22 @@
+---
+title: "Projects / Case Studies"
+format:
+  html:
+    toc: true
+    toc-location: left
+    theme: journal
+---
+
+# Projects & Case Studies
+
+
+## Operational Leadership in Hospitality (Case Study)
+- Oversaw daily operations and managed staff performance at Carlton Tower Jumeirah, a prestigious luxury hotel in London.
+- Implemented high standards of guest service and operational efficiency.
+- Applied financial analysis, budgeting, and cost control to improve department outcomes.
+- Developed leadership, communication, and problem-solving skills in a fast-paced environment.
+
+## Group Collaboration
+![Group Photo](Group%20Photo.jpg){width=300px}
+
+*More projects and case studies can be added as you complete your MBA journey.*

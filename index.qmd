@@ -1,0 +1,31 @@
+---
+title: "Home / About"
+format:
+  html:
+    toc: true
+    toc-location: left
+    theme: journal
+---
+
+# About Me
+
+![Profile Photo](Profile%20Photo.jpg){width=150px}
+
+**Sokhibjon Otabaev**
+
+I am an Accounting and Management graduate currently pursuing a Master of Business Administration (MBA). My academic journey has equipped me with a strong foundation in business strategy, finance, and organizational leadership, enhancing my analytical and decision-making skills.
+
+## Education
+- BSc Hons Accounting and Management, University of Ulster (2019–2022)
+- MBA, University Canada West (2024–2026)
+
+## Professional Experience
+**Supervisor, Food and Beverage Department**  Carlton Tower Jumeirah, London (2022–2024)
+
+- Oversaw daily operations and staff performance in a prestigious luxury hotel.
+- Maintained high standards of guest service and operational efficiency.
+- Developed leadership, communication, and problem-solving skills in a fast-paced environment.
+
+[Download Resume](Resume.pdf)
+
+[Facebook](https://www.facebook.com/sokhibjon.otabaev.9?mibextid=LQQJ4d) | [LinkedIn](https://www.linkedin.com/in/sokhibjon-otabaev-2a53631a7) 

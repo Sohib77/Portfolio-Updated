@@ -1,0 +1,17 @@
+v---
+title: "Contact"
+format:
+  html:
+    toc: true
+    toc-location: left
+    theme: journal
+---
+
+# Contact
+
+- **Email:** [s.otabaev77@gmail.com](mailto:s.otabaev77@gmail.com)
+- **Facebook:** [Sokhibjon Otabaev](https://www.facebook.com/sokhibjon.otabaev.9?mibextid=LQQJ4d)
+- **LinkedIn:** [Sokhibjon Otabaev](https://www.linkedin.com/in/sokhibjon-otabaev-2a53631a7)
+- **Instagram:** [@sokhibjon_otabaev](https://www.instagram.com/sokhibjon_otabaev)
+
+*You can also connect with me for professional opportunities or collaborations.*

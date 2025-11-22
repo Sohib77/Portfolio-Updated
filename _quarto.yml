@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: _site
+website:
+  title: "Sokhibjon Otabaev | MBA Portfolio"
+  navbar:
+    left:
+      - text: Home
+        file: index.qmd
+      - text: Resume
+        file: resume.qmd
+      - text: Projects
+        file: projects.qmd
+      - text: Skills
+        file: skills.qmd
+      - text: Contact
+        file: contact.qmd
+format:
+  html:
+    theme: journal
+    toc: true
+    toc-location: left

@@ -1,0 +1,34 @@
+---
+title: "Resume / CV"
+format:
+  html:
+    toc: true
+    toc-location: left
+    theme: journal
+---
+
+# Resume / CV
+
+![Profile Photo](Profile%20Photo.jpg){width=120px}
+
+## Sokhibjon Otabaev
+
+### Education
+- **BSc Hons Accounting and Management**, University of Ulster (2019–2022)
+- **MBA**, University Canada West (2024–2026)
+
+### Professional Experience
+**Supervisor, Food and Beverage Department**  
+Carlton Tower Jumeirah, London (2022–2024)
+- Oversaw daily operations and staff performance in a luxury hotel.
+- Maintained high standards of guest service and operational efficiency.
+- Developed leadership, communication, and problem-solving skills.
+
+### Key Skills
+- Leadership & Team Management
+- Financial Analysis & Reporting
+- Customer Service Excellence
+- Strategic Planning & Decision-Making
+- Communication & Interpersonal Skills
+
+[Download Full Resume (PDF)](Resume.pdf)

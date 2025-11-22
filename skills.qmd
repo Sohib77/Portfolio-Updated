@@ -1,0 +1,17 @@
+---
+title: "Skills"
+format:
+  html:
+    toc: true
+    toc-location: left
+    theme: journal
+---
+
+# Skills    
+
+## Key Skills
+- Leadership & Team Management
+- Financial Analysis & Reporting
+- Customer Service Excellence
+- Strategic Planning & Decision-Making
+- Communication & Interpersonal Skills
